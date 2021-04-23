@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<figure><embed src="https://wakatime.com/share/@5e0c6798-cae6-433a-a730-5e4cf1f5e0fd/a5050488-2dc2-45aa-a7ce-812decb40fbc.svg"></embed></figure>
+<img src="https://wakatime.com/share/@5e0c6798-cae6-433a-a730-5e4cf1f5e0fd/a5050488-2dc2-45aa-a7ce-812decb40fbc.svg" />
 
 <!--
 **RiddMa/RiddMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -59,7 +59,7 @@
 
 </div>
 
-<h2 align="center">"Used" Languages & Tools</h2>
+<h2 align="center">Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RiddMa&layout=compact&theme=radical" />
 </div>

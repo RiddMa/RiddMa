@@ -1,4 +1,5 @@
-<h1 align="center"> Hi There 👋</h1>
+<h1 align="center"> Hi There 👋 <a href="https://wakatime.com/@5e0c6798-cae6-433a-a730-5e4cf1f5e0fd"><img src="https://wakatime.com/badge/user/5e0c6798-cae6-433a-a730-5e4cf1f5e0fd.svg" alt="Total time coded since Nov 30 2020" /></a></h1>
+
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RiddMa&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />

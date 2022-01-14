@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=RiddMa&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
 </div>
 
-<h2 align="center">"Used" Languages & Tools</h2>
+<!-- <h2 align="center">"Used" Languages & Tools</h2>
 <div align="center">
 <h3 align="center">Languages</h3>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -58,7 +58,7 @@
 <h3 align="center">Others</h3>
 <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
 
-</div>
+</div> -->
 
 <h2 align="center">Stats</h2>
 <div align="center">
